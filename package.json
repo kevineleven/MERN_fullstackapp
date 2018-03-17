@@ -1,0 +1,18 @@
+{
+  "name": "mern_ko",
+  "version": "0.0.1",
+  "description": "complete full stack MERN app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mern",
+    "react",
+    "node",
+    "mongo",
+    "express"
+  ],
+  "author": "Kevin Olds",
+  "license": "ISC"
+}
